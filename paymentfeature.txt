@@ -1,3 +1,6 @@
 add payment method
 upi card
 bank
+bank 
+fiile
+
